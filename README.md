@@ -74,8 +74,8 @@ pip install requests urllib3
 ### Download
 
 ```bash
-git clone https://github.com/luanisaque3/plascov_1.0.git
-cd plascov_1.0
+git clone https://github.com/Placoy01/Killed_Monkey.git
+cd Killed_Monkey
 chmod +x killer_monkey.py
 ```
 
